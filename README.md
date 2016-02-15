@@ -66,10 +66,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-- [ ]改变一下selected的样子
-- [ ]收藏？？？在最右边加一个tab
-- [ ]collection view在右上角可以切换选择
-- [ ]search bar的实现，非常重要
+
 
 
 ## Video Walkthrough 

@@ -48,7 +48,7 @@ Here's a walkthrough of implemented user stories:
 
 **Flicks** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: **5.5** hours spent in total
 ## User Stories
 
 The following **required** functionality is completed:
@@ -66,15 +66,13 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-- [ ]改变一下selected的样子
-- [ ]收藏？？？在最右边加一个tab
-- [ ]collection view在右上角可以切换选择
-- [ ]search bar的实现，非常重要
 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+![walkthrough](demo2.gif)
+
 
 ## License
 
